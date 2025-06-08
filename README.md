@@ -19,6 +19,8 @@ Graphic 3 : https://www.canva.com/design/DAGpwsKjp-A/qa5kN831OEtjzGoNALCDKQ/edit
 
 Graphic 4 : https://www.canva.com/design/DAGpwjKJLd4/C_H3FgdC4a-hBCC7giH6Iw/edit?utm_content=DAGpwjKJLd4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton  
 
+Graphic 5 : https://www.canva.com/design/DAGpwlMITMk/Xfb_rMhzCc8m-K6bEwbnXA/edit?utm_content=DAGpwlMITMk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton  
+
 # TASK 3
 Event Poster or Flyer - Design a poster or flyer for an event (concert, workshop, etc.). This project emphasizes layout, readability, and selecting appropriate imagery. Interns will arrange text and images to convey information clearly in print or digital form.  
 Tools & Technologies: Canva  
